@@ -41,13 +41,6 @@ My journey in technology started with curiosity and has evolved into a career de
 
 ---
 
-### 🚀 What I Bring to the Table
-- 🧩 **Problem-solving mindset** – Analytical, detail-oriented, and creative
-- 💬 **Strong communication** – Clear documentation & team collaboration
-- 📚 **Continuous learning** – Adapting to industry trends & best practices
-- ✅ **Quality commitment** – Clean, maintainable, and scalable solutions
-
----
 
 ### 🌐 Connect with Me
 <p>
