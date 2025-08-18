@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chirag Prajapati</h1>
-<h3 align="center">Passionate • Curious • Innovative</h3>
-
-<hr>
-
-<h3 align="center">
+<h4 align="center">
 Crafting world-class digital experiences with cutting-edge technologies.  
 I transform ideas into powerful, scalable solutions that make a difference.
-</h3>
+</h4>
 
 
 <!-- Profile Views -->
