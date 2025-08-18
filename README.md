@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Prajapati</h1>
-<h4 align="center">
-Crafting world-class digital experiences with cutting-edge technologies.  
-I transform ideas into powerful, scalable solutions that make a difference.
-</h4>
+<h3 align="center">⚡ Crafting Reliable Solutions With Modern Tech | 🌍 Shaping Tomorrow’s Digital Futures</h3>
 
 
 <!-- Profile Views -->
